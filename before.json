@@ -1,0 +1,2542 @@
+[
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 12,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 12,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-03-27",
+			"endDate": "2017-04-02"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 12,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 12,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 14,
+			"new": 1,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-04-03",
+			"endDate": "2017-04-09"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 10,
+			"new": 1,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 12,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 12,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-04-10",
+			"endDate": "2017-04-16"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 14,
+			"new": 1,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 12,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 12,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 7,
+			"new": 1,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-04-17",
+			"endDate": "2017-04-23"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 15,
+			"new": 1,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 8,
+			"new": 1,
+			"withdrawn": 0,
+			"total": 9,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 12,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 12,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-04-24",
+			"endDate": "2017-04-30"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 9,
+			"new": 1,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 12,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 12,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-05-01",
+			"endDate": "2017-05-07"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 12,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 12,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-05-08",
+			"endDate": "2017-05-14"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 12,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 12,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-05-15",
+			"endDate": "2017-05-21"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 19,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 19,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-05-22",
+			"endDate": "2017-05-28"
+		}
+	}],
+	[{
+		"class_id": 45475,
+		"class": {
+			"name": "Bedok - K1 (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44575,
+		"class": {
+			"name": "Bedok - K2 (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 43629,
+		"class": {
+			"name": "Bedok - Nursery AM",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44579,
+		"class": {
+			"name": "Bedok - Playgroup (PM)",
+			"enrolled": 2,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 2,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 43751,
+		"class": {
+			"name": "Bedok - Pre Nursery AM",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 43800,
+		"class": {
+			"name": "Bedok - Pre Nursery PM",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44710,
+		"class": {
+			"name": "Bedok Staff",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 47655,
+		"class": {
+			"name": "Infant Care",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44709,
+		"class": {
+			"name": "PC Staff ",
+			"enrolled": 32,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 32,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44679,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (AM)",
+			"enrolled": 19,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 19,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44681,
+		"class": {
+			"name": "Piccadilly Circus - K1 Lotus (PM)",
+			"enrolled": 18,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 18,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44680,
+		"class": {
+			"name": "Piccadilly Circus - K1 Orchid (AM)",
+			"enrolled": 20,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 20,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44684,
+		"class": {
+			"name": "Piccadilly Circus - K2 Hibiscus (AM)",
+			"enrolled": 11,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 11,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44682,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (AM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44683,
+		"class": {
+			"name": "Piccadilly Circus - K2 Jasmine (PM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44687,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Daisy (AM)",
+			"enrolled": 16,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 16,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44685,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44686,
+		"class": {
+			"name": "Piccadilly Circus - Nursery Ixora (PM)",
+			"enrolled": 15,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 15,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44047,
+		"class": {
+			"name": "Piccadilly Circus - Playgroup Gerbera (AM)",
+			"enrolled": 8,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 8,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 43621,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery (AM) ",
+			"enrolled": 0,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 0,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44689,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Lily (AM)",
+			"enrolled": 10,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 10,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 44688,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (AM)",
+			"enrolled": 14,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 14,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}, {
+		"class_id": 43624,
+		"class": {
+			"name": "Piccadilly Circus - Pre Nursery Rose (PM)",
+			"enrolled": 7,
+			"new": 0,
+			"withdrawn": 0,
+			"total": 7,
+			"beginDate": "2017-05-29",
+			"endDate": "2017-06-04"
+		}
+	}]
+]
